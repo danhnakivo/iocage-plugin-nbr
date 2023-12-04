@@ -18,7 +18,7 @@
         "plugin-default": [
                 {
                 "function": "sha256",
-                "fingerprint": "2964C8EDCF7E07CDDF90CA6DEB9A68344121B12484B8A315A3A443FA88BA8DA1"
+                "fingerprint": "b0170035af3acc5f3f3ae1859dc717101b4e6c1d0a794ad554928ca0cbb2f438"
             }
         ]
     },
